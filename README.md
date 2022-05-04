@@ -3,7 +3,7 @@
 
 <p align="center" >
   <samp>
-   I have studied and worked with programming for more than . I have programmed in several languages, but currently I have focused on web development.
+   I have studied and worked with programming for more than 2 years . I have programmed in several languages, but currently I have focused on web development.
 </samp>
 <br/><br/>
 <samp>
