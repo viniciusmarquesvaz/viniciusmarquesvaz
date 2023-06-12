@@ -7,7 +7,7 @@
 </samp>
 <br/><br/>
 <samp>
-I am currently a Full Stack intern at <a target="_blank" rel="noopener noreferrer" href="https://www.enline-transmission.com/">Enline</a> and actively participate in the development of real projects.
+I am currently a Full Stack javascript developer at and actively participate in the development of real projects.
 </samp>
 <br/><br/>
 
