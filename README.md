@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/vinicius-pixel-art.png" width="320" alt="Pixel art portrait of Vinicius Marques Vaz">
-</p>
-
 <h1 align="center">Vinicius Marques Vaz</h1>
 
 <p align="center">
